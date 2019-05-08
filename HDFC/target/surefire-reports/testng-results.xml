@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sanity Suite" duration-ms="2627516" started-at="2019-05-07T05:31:50Z" finished-at="2019-05-07T06:15:37Z">
+    <groups>
+    </groups>
+    <test name="HDFC" duration-ms="2627516" started-at="2019-05-07T05:31:50Z" finished-at="2019-05-07T06:15:37Z">
+      <class name="baselab.SetUp">
+        <test-method status="PASS" signature="browserHandling()[pri:0, instance:baselab.SetUp@7a0ac6e3]" name="browserHandling" duration-ms="2627487" started-at="2019-05-07T05:31:50Z" finished-at="2019-05-07T06:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserHandling -->
+      </class> <!-- baselab.SetUp -->
+    </test> <!-- HDFC -->
+  </suite> <!-- Sanity Suite -->
+</testng-results>

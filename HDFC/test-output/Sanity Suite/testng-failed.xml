@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Sanity Suite]" parallel="tests">
+  <test thread-count="2" name="HDFC(failed)" parallel="tests">
+    <classes>
+      <class name="BaseLab.SetUp">
+        <methods>
+          <include name="browserHandling"/>
+        </methods>
+      </class> <!-- BaseLab.SetUp -->
+    </classes>
+  </test> <!-- HDFC(failed) -->
+</suite> <!-- Failed suite [Sanity Suite] -->

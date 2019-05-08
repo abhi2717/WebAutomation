@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sanity Suite" verbose="1" parallel="tests" thread-count="2">
+
+<!-- <listeners>
+    <listener class-name="listeners.AppiumListeners"/>
+</listeners> -->
+
+
+    <test name="HDFC">
+        <classes>
+            <class name="baselab.SetUp">
+            </class>
+        </classes>
+    </test>
+
+</suite>
+
