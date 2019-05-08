@@ -112,8 +112,7 @@ public class SetUp {
 		 catch (Exception e) 
 		 	{
 	            e.printStackTrace();
-		 	}
-	        
+		 	}	        
 	}
 
 
